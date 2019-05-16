@@ -18,3 +18,6 @@ example:
 ```
 
 # GIF
+![green](https://raw.githubusercontent.com/hueyjj/matrix/master/green.gif)
+![red](https://raw.githubusercontent.com/hueyjj/matrix/master/red.gif)
+![magenta](https://raw.githubusercontent.com/hueyjj/matrix/master/magenta.gif)
